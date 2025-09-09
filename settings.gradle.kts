@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ActivityLauncher"
-include(":app")
+include(":app")ar
