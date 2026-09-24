@@ -15,7 +15,7 @@ Launches hidden activities and creates shortcuts for installed apps
 In case the shortcuts are not created in your home screen, make sure Activity Launcher has the "Home screen shortcuts" permission.
 
 Click on Settings -> Apps -> Manage apps -> Activity Launcher -> Other permissions -> Home screen shortcuts.
-
+hd
 See [#267](https://github.com/butzist/ActivityLauncher/issues/267).
 
 ## Translations
